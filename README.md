@@ -22,9 +22,9 @@ cursor-landing-clone/
 ├── index.html
 ├── style.css
 ├── README.md
-└── assets/
-    ├── logo.svg
-    └── hero.png
-
+└── images/
+    ├── download1.png
+    └── download_3.png
+    
 <img width="1000" height="841" alt="Screenshot 2026-02-07 at 12 03 18 PM" src="https://github.com/user-attachments/assets/e7c99d29-a24c-45fb-91de-959a81fa458a" />
 
