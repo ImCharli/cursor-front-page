@@ -17,14 +17,8 @@ Sections Recreated
 - Hero Section  
 - (More sections can be added as per assignment requirements)
 
-cursor-landing-clone/
-│
-├── index.html
-├── style.css
-├── README.md
-└── images/
-    ├── download1.png
-    └── download_3.png
+<img width="420" height="356" alt="image" src="https://github.com/user-attachments/assets/932dfdef-7313-4454-8986-5050aa00131b" />
+
     
 <img width="1000" height="841" alt="Screenshot 2026-02-07 at 12 03 18 PM" src="https://github.com/user-attachments/assets/e7c99d29-a24c-45fb-91de-959a81fa458a" />
 
